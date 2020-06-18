@@ -1,0 +1,1 @@
+export const divbuscar = document.querySelector('#formulario-buscar'),formularioBuscar = document.querySelector('#buscar'),divMensajes = document.querySelector('#mensajes'),divResultado = document.querySelector('#resultado')
